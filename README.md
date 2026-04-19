@@ -68,3 +68,7 @@ Internet
 - [Wazuh SIEM](Documentation/4-wazuh-siem.md)
 - [Peppermint Helpdesk](Documentation/5-peppermint-helpdesk.md)
 - [Known Issues & Troubleshooting](Documentation/6-known-issues.md)
+
+## Side Note
+
+I really wanted to include a simple penetration test with kali linux against the server, however I currently don't have enough storage on my laptop for another vm. My laptop was also suffering a bit having 4 vms booted up at the same time. I will defenitely come back to this once I have freed up some storage.
