@@ -65,3 +65,6 @@ Internet
 - [Network & Infrastructure](Documentation/1-network-topology.md)
 - [Active Directory](Documentation/2-active-directory.md)
 - [pfSense](Documentation/3-pfsense.md)
+- [Wazuh SIEM](Documentation/4-wazuh-siem.md)
+- [Peppermint Helpdesk](Documentation/5-peppermint-helpdesk.md)
+- [Known Issues & Troubleshooting](Documentation/6-known-issues.md)
