@@ -22,7 +22,7 @@ Accessible at: `http://192.168.10.20:3000`
 
 ## Ticket Automation
 
-To get more realistic hands on practice with the ticketing system, I wrote a python script that would send a ticket every few minutes. The main idea was more to gain the knowledge of handling the ticket by commenting, escalating, and assigning to appropriate users rather than solving the actual complaints. I also researched the standards and protocols to dealing with clients via a ticketing system to fully unerstand the idea in a real life environment. The script (`ticket_generator.py`) does the following:
+To get more realistic hands on practice with the ticketing system, I wrote a python script that would send a ticket every few minutes. The main idea was more to gain the knowledge of handling the ticket by commenting, escalating, and assigning to appropriate users rather than solving the actual complaints. I also researched the standards and protocols to dealing with clients via a ticketing system to fully unerstand the idea in a real life environment. The script [ticket_generator.py](ticket_generator.py) does the following:
 - Authenticates to Peppermint via REST API using JWT token
 - Selects a random ticket scenario from a pool of realistic IT issues
 - Randomly assigns priority (Low, Medium, High)
