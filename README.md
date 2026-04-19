@@ -46,7 +46,7 @@ Internet
     |-- Windows 11 (WIN11-CLIENT)      192.168.10.250
     |-- Ubuntu Server (ubuntu-srv)     192.168.10.20
               |-- Peppermint (port 3000)
-              |-- Wazuh Stack (Docker)
+              |-- Wazuh (Docker)
 ```
 
 
@@ -58,7 +58,10 @@ Internet
 - File Integrity Monitoring and Security Configuration Assessment.
 - Helpdesk ticketing system deployment and simulation.
 - Linux server administration.
-- Docker container management.
 
 
 ## Documentation
+
+- [Network & Infrastructure](Documentation/1-network-topology.md)
+- [Active Directory](Documentation/2-active-directory.md)
+- [pfSense](Documentation/3-pfsense.md)
