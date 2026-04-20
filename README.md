@@ -72,3 +72,4 @@ Internet
 ## Side Note
 
 I really wanted to include a simple penetration test with kali linux against the server, however I currently don't have enough storage on my laptop for another vm. My laptop was also suffering a bit having 4 vms booted up at the same time. I will defenitely come back to this once I have freed up some storage.
+I also wanted to demonstrate some basic CCNA knowledge by creating vlans and configuring their connectivities with other workstations, but device storage was also the main limitation.
